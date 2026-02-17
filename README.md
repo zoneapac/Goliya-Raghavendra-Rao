@@ -6,7 +6,7 @@ With 17+ years in IT and a decade of deep AWS experience, I design, build, and o
 ---
 
 ## 🚀 Core Expertise
-- **Cloud Platforms:** AWS (10+ yrs), Azure, GCP, Oracle Cloud  
+- **Cloud Platforms:** AWS (10+ yrs), Azure, and GCP 
 - **Architecture:** Multi‑cloud strategy, target-state design, migration planning  
 - **Automation:** Terraform, CloudFormation, CI/CD pipelines, GitHub Actions  
 - **DevOps:** Containers, Kubernetes, monitoring, observability  
