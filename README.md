@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Raghav  
-### Senior Cloud Engineer | AWS Specialist | Multi‑Cloud Architect
+### AWS Specialist | Multi‑Cloud Architect
 
 With 17+ years in IT and a decade of deep AWS experience, I design, build, and optimise cloud platforms for enterprise environments. I specialise in multi‑cloud architectures, automation, IaC, and secure, scalable infrastructure for regulated industries.
 
